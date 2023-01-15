@@ -1,0 +1,16 @@
+C:\TrainingGIT\AoC_2022_Day02\bin\Debug\net5.0\AoC_2022_Day02.exe
+C:\TrainingGIT\AoC_2022_Day02\bin\Debug\net5.0\AoC_2022_Day02.deps.json
+C:\TrainingGIT\AoC_2022_Day02\bin\Debug\net5.0\AoC_2022_Day02.runtimeconfig.json
+C:\TrainingGIT\AoC_2022_Day02\bin\Debug\net5.0\AoC_2022_Day02.runtimeconfig.dev.json
+C:\TrainingGIT\AoC_2022_Day02\bin\Debug\net5.0\AoC_2022_Day02.dll
+C:\TrainingGIT\AoC_2022_Day02\bin\Debug\net5.0\ref\AoC_2022_Day02.dll
+C:\TrainingGIT\AoC_2022_Day02\bin\Debug\net5.0\AoC_2022_Day02.pdb
+C:\TrainingGIT\AoC_2022_Day02\obj\Debug\net5.0\AoC_2022_Day02.csproj.AssemblyReference.cache
+C:\TrainingGIT\AoC_2022_Day02\obj\Debug\net5.0\AoC_2022_Day02.GeneratedMSBuildEditorConfig.editorconfig
+C:\TrainingGIT\AoC_2022_Day02\obj\Debug\net5.0\AoC_2022_Day02.AssemblyInfoInputs.cache
+C:\TrainingGIT\AoC_2022_Day02\obj\Debug\net5.0\AoC_2022_Day02.AssemblyInfo.cs
+C:\TrainingGIT\AoC_2022_Day02\obj\Debug\net5.0\AoC_2022_Day02.csproj.CoreCompileInputs.cache
+C:\TrainingGIT\AoC_2022_Day02\obj\Debug\net5.0\AoC_2022_Day02.dll
+C:\TrainingGIT\AoC_2022_Day02\obj\Debug\net5.0\ref\AoC_2022_Day02.dll
+C:\TrainingGIT\AoC_2022_Day02\obj\Debug\net5.0\AoC_2022_Day02.pdb
+C:\TrainingGIT\AoC_2022_Day02\obj\Debug\net5.0\AoC_2022_Day02.genruntimeconfig.cache
